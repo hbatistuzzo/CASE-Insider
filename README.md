@@ -20,7 +20,8 @@ Project status: In Progress
 
 ---
 
-Insider Store is a retail apparel and fashion company. This project is based on their 2022 case challenge for a Business Analytics position.
+Insider Store is a retail apparel and fashion company.<\br>
+This project is based on their 2022 case challenge for a Business Analytics position.
 
 <img src="images/logo2.png" width="100%"/>
 
@@ -40,4 +41,29 @@ Explain the motives for choosing them. Show how this action plan would be struct
 4) Provide opinions on the company's website layout. What insights can I offer?
 
 ---
+Client Base Dataset
+
+**Insights:**
+- 297 unique clients, 189 male (63.6%), 85 female (28.6%) and 23 undeclared (7.7%)
+- 40% of all clients from SP, followed by ~10% each from RJ, MG. Overall, the SE region accounts for ~60% of clients.
+
+Item Base Dataset
+
+**Insights:**
+- 15% of orders made with Coupons
+- There are repeated Order ID's. Implying..?
+- Some clients ordered only once, others ordered items over 15 times each. Keep those in mind.
+
+Dim_product Dataset
+
+**Insights:**
+- 13 Insider unique products
+- 8 for women, 4 for men, 1 neutral (socks)
+- Types: 5 sports, 5 casual, 3 underwear
+
+
+---
+To do:
+
+- brazil map of client distribution (state, city).
 
